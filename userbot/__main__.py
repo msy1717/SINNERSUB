@@ -25,5 +25,7 @@ except PhoneNumberInvalidError:
 for module_name in ALL_MODULES:
     imported_module = import_module("userbot.modules." + module_name)
 
-LOGS.info("⚡️ Userbot SinX DEPLOYED!SUCCESFULLY ⚡️\n____  _      __  __\n/ ___|(_)_ __ \ \/ /\n\___ \| | '_ \ \  / \n___) | | | | |/  \ \n|____/|_|_| |_/_/\_\")
+LOGS.info("⚡️ Userbot SinX DEPLOYED!SUCCESFULLY ⚡️")
+
+
 bot.run_until_disconnected()
