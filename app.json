@@ -1,6 +1,6 @@
 {
-  "name": "MahaDev UserBot",
-  "description": "[MahaDev UserBot] A modular Telegram userbot running on Python 3.9.2",
+  "name": "SinX UserBot",
+  "description": "[SINX] A modular Telegram userbot running on Python 3.9.2",
   "keywords": [
     "telegram",
     "userbot",
@@ -8,8 +8,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/TEAM-TANDAV-X/MAHADEVS-X-USERBOT",
-  "website": "https://t.me/MAHADEV_X_USERBOT",
+  "repository": "https://github.com/msy1717/SINNERSUB",
+  "website": "https://t.me/msy1717/SINNERSUB",
   "stack": "container",
   "env": {
     "ALIVE_NAME": {
