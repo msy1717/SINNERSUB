@@ -4,7 +4,7 @@ FROM biansepang/weebproject:buster
 # MahaDev-Project
 # Python
 # MahadevProject-Sid
-RUN git clone -b main https://github.com/msy1717/SINNERSUB/root/userbot
+RUN git clone -b main https://github.com/msy1717/SINNERSUB /root/userbot
 RUN mkdir /root/userbot/.bin
 RUN pip install --upgrade pip setuptools
 WORKDIR /root/userbot
