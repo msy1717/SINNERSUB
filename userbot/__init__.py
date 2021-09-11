@@ -266,7 +266,7 @@ with bot:
 
 
 async def check_alive():
-    await bot.send_message(BOTLOG_CHATID, "**⚡MahaDev-Tandav⚡** ```Has Been Active!```")
+    await bot.send_message(BOTLOG_CHATID, "**SinX has been deployed**\n➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖\n**")
     return
 
 with bot:
