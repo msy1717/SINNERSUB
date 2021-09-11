@@ -133,12 +133,12 @@ async def amireallyalive(alive):
     """For .alive command, check if the bot is running."""
     logo = ALIVE_LOGO
     output = (
-        f"`MAHADEV X  USERBOT IS ON FIRE` This is Ultra Private Security Protocols!! MAHADEV X OWNER SIDDHARTH USERBOTis running on `{repo.active_branch.name}`\n"
-        "`====================================`\n"
-        f"🐍 `Python         :` v{python_version()}\n"
-        f"⚙️ `Telethon       :` v{version.__version__}\n"
-        f"👤 `User           :` {DEFAULTUSER}\n"         
-        "`====================================`\n"
+        f"*The SinX Userbot...\n\nHey, I am alive.*{repo.active_branch.name}`\n"
+        "*====================================*\n"
+        f"*🐍 Python *        :` v{python_version()}\n"
+        f"*⚙️ Telethon*       :` v{version.__version__}\n"
+        f"*👤 User *          :` {DEFAULTUSER}\n"         
+        "*====================================*\n"
     )
     if ALIVE_LOGO:
         try:
